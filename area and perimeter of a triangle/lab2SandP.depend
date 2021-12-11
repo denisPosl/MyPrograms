@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519953484 source:d:\программирование\c++\lab2sandp\main.cpp
+	<iostream>
+	<cmath>
+	<locale>
+	<string>
+
