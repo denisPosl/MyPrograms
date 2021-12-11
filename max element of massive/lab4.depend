@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521729626 source:d:\программирование\c++\lab4\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
