@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1520011041 source:d:\программирование\c++\laba3v\main.cpp
+	<iostream>
+	<cmath>
+	<locale>
+	<string>
+
