@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1517467949 source:d:\программирование\c++\game\main.cpp
-	<iostream>
-	<cstdlib>
-	<ctime>
-	<cstdlib>
-	<stdio.h>
-
